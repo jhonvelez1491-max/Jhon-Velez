@@ -1,0 +1,8 @@
+{
+  "name": "EcoVisual - Plataforma Educativa Ambiental",
+  "description": "Prototipo interactivo de EcoVisual: plataforma educativa ambiental con contenidos visuales, módulos de reciclaje, actividades interactivas y recursos descargables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
